@@ -14,9 +14,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rob Light's DevOps Blog # the main title
+title: Rob Light - Lead Technical Consultant # the main title
 
-tagline: Built using Jekyll and the Chirpy theme # it will display as the subtitle
+tagline: DevOps and Azure # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   The ramblings of a DevOps and Automation engineer currently working for a Global technology company on Public Sector Projects.
